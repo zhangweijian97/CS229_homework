@@ -23,3 +23,17 @@ week2homework/machine-learning-ex1/ex1/normalEqn.m
 week2homework/machine-learning-ex1/ex1/submit.m
 week2homework/machine-learning-ex1/ex1/token.mat
 week2homework/machine-learning-ex1/ex1/warmUpExercise.m
+week3LogisticRegression/machine-learning-ex2/ex2/lib/jsonlab/varargin2struct.m
+week3LogisticRegression/machine-learning-ex2/ex2/lib/jsonlab/jsonopt.m
+week3LogisticRegression/machine-learning-ex2/ex2/lib/jsonlab/loadjson.m
+week3LogisticRegression/machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m
+week3LogisticRegression/machine-learning-ex2/ex2/lib/jsonlab/mergestruct.m
+week3LogisticRegression/machine-learning-ex2/ex2/lib/jsonlab/savejson.m
+week3LogisticRegression/machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m
+week3LogisticRegression/machine-learning-ex2/ex2/ex2.m
+week3LogisticRegression/machine-learning-ex2/ex2/ex2_reg.m
+week3LogisticRegression/machine-learning-ex2/ex2/lib/makeValidFieldName.m
+week3LogisticRegression/machine-learning-ex2/ex2/lib/submitWithConfiguration.m
+week3LogisticRegression/machine-learning-ex2/ex2/mapFeature.m
+week3LogisticRegression/machine-learning-ex2/ex2/plotDecisionBoundary.m
+week3LogisticRegression/machine-learning-ex2/ex2/submit.m
