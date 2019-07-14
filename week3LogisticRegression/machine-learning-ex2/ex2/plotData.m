@@ -13,9 +13,13 @@ figure; hold on;
 %
 
 
+X_1 = X(y==1,:);
+X_0 = X(y==0,:);
 
-
-
+hold on;
+plot(X_1(:,1), X_1(:,2), 'k+')
+plot(X_0(:,1), X_0(:,2), 'ko')
+hold off;
 
 
 
