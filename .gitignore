@@ -38,3 +38,20 @@ week3LogisticRegression/machine-learning-ex2/ex2/mapFeature.m
 week3LogisticRegression/machine-learning-ex2/ex2/plotDecisionBoundary.m
 week3LogisticRegression/machine-learning-ex2/ex2/submit.m
 week3LogisticRegression/machine-learning-ex2/ex2/token.mat
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/submit.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/sigmoid.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/lib/submitWithConfiguration.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/lib/makeValidFieldName.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/lib/jsonlab/varargin2struct.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/lib/jsonlab/savejson.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/lib/jsonlab/mergestruct.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/lib/jsonlab/loadjson.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/lib/jsonlab/jsonopt.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/fmincg.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/ex3weights.mat
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/ex3data1.mat
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/ex3_nn.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/ex3.m
+week4Multi-class Classification and Neural Networks/machine-learning-ex3/ex3/displayData.m
