@@ -38,12 +38,21 @@ grad = zeros(size(theta));
 
 
 
+m = length(y);
 
+h = sigmoid(X * theta);
 
+not_theta = theta;
 
+not_theta(1) = 0;
 
+J = 1/m * (-y' * log(h) - (1 - y)' * log(1-h)) + lambda / (2 * m) * (not_theta' * not_theta);
 
+bias =  lambda / m * theta;
 
+bias(1) = 0;
+
+grad = 1/m * X' * (h - y) + bias;
 
 % =============================================================
 

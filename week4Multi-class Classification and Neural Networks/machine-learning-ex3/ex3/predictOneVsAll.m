@@ -30,10 +30,9 @@ X = [ones(m, 1) X];
 %       for each row.
 %       
 
+temp_results = X * all_theta';
 
-
-
-
+[no_use, p] = max(temp_results, [], 2);
 
 
 % =========================================================================
